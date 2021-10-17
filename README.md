@@ -1,4 +1,4 @@
-# ProyectoSOv1
+# Proyecto SO - GRUPO M4
 
 VERSION 1
 Cliente-Servidor y Consultas básicas
