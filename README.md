@@ -1,7 +1,7 @@
 # Proyecto SO - GRUPO M4
 
-Versión 1
-Cliente-Servidor y Consultas básicas
+Versión 1 <br />
+Cliente-Servidor y Consultas básicas <br />
 Generada Alba Onrubia Pitarque
 Verificada Irene Gordun Salazar
 Comunicada Angelica Cardenas Cruz
