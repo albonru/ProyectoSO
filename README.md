@@ -10,7 +10,7 @@ URL video: https://youtu.be/ERaFq4OjuRE <br />
 
 Versión 2<br />
 Servidor concurrente, Lista de conectados y Exclusión mutua <br />
-Generada por Irene Gordun Salazar <br />
+Generada Irene Gordun Salazar <br />
 Veridicada Angélica Cárdenas Cruz  <br />
 Comunicada Alba On rubia Pitarque  <br />
 
