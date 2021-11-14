@@ -2,7 +2,7 @@
 
 Versión 1 <br />
 Cliente-Servidor y Consultas básicas <br />
-Generada Alba On rubia Pitarque <br />  
+Generada Alba Onrubia Pitarque <br />
 Verificada Irene Gordun Salazar <br />
 Comunicada Angelica Cardenas Cruz <br />
 
@@ -11,7 +11,15 @@ URL video: https://youtu.be/ERaFq4OjuRE <br />
 Versión 2<br />
 Servidor concurrente, Lista de conectados y Exclusión mutua <br />
 Generada Irene Gordun Salazar <br />
-Veridicada Angélica Cárdenas Cruz  <br />
-Comunicada Alba On rubia Pitarque  <br />
+Verificada Angélica Cárdenas Cruz  <br />
+Comunicada Alba Onrubia Pitarque  <br />
 
 URL video: https://www.youtube.com/watch?v=Ox962nQxsl8  <br />
+
+Versión 3<br />
+Actualización automática de la lista de conectados y entorno de producción <br />
+Generada Angélica Cárdenas Cruz <br />
+Verificada Alba Onrubia Pitarque  <br />
+Comunicada Irene Gordun Salazar  <br />
+
+URL video:   <br />
