@@ -24,3 +24,10 @@ Comunicada Irene Gordun Salazar  <br />
 
 URL video:  https://drive.google.com/drive/folders/1Mx3KbIplFZCg_gJufpcjyO18ojQ5Kirv?usp=sharing <br />
 
+Version 4 <br />
+Invitaciones <br />
+Generada
+Verificada 
+Comunicada
+
+URL de video: <br />
