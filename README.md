@@ -26,8 +26,8 @@ URL video:  https://drive.google.com/drive/folders/1Mx3KbIplFZCg_gJufpcjyO18ojQ5
 
 Version 4 <br />
 Invitaciones <br />
-Generada
-Verificada 
-Comunicada
+Generada Angélica Cárdenas Cruz <br />
+Verificada Irene Gordun Salazar <br />
+Comunicada Alba Onrubia Pitarque <br />
 
-URL de video: <br />
+URL de video: https://youtu.be/_gZ9fXXZi-0 <br />
