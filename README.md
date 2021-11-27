@@ -31,3 +31,11 @@ Verificada Irene Gordun Salazar <br />
 Comunicada Alba Onrubia Pitarque <br />
 
 URL de video: https://youtu.be/_gZ9fXXZi-0 <br />
+
+Versión 5 <br />
+Protección cross-threading y chat entre jugadores de una misma partida <br />
+Generada Irene Gordun Salazar <br />
+Verificada Alba Onrubia Pitarque  <br />
+Comunicada Angélica Cárdenas Cruz  <br />
+
+URL del video: https://www.youtube.com/watch?v=UE1pV9jE2M4 <br />
