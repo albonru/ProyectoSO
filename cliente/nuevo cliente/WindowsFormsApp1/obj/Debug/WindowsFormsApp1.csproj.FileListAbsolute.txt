@@ -1,0 +1,62 @@
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\mscorlib.dll
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\es\mscorlib.resources.dll
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\normidna.nlp
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfc.nlp
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfd.nlp
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Descargas 2.0\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\irene\Downloads\nuevo cliente-20220126T180020Z-001\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\mscorlib.dll
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\normidna.nlp
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfc.nlp
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfd.nlp
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gluy2\Downloads\18-46\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\mscorlib.dll
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\es\mscorlib.resources.dll
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\normidna.nlp
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfc.nlp
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfd.nlp
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Descargas 2.0\cliente 23_41\nuevo cliente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
