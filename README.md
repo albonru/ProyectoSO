@@ -40,8 +40,6 @@ Comunicada Angélica Cárdenas Cruz  <br />
 
 URL del video: https://www.youtube.com/watch?v=UE1pV9jE2M4 <br />
 
-URL de video: https://youtu.be/_gZ9fXXZi-0 <br />
-
 Versión Final <br />
 Implementacion del juego "ahorcado" <br />
 Generada Angélica Cárdenas Cruz <br />
